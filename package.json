@@ -1,0 +1,27 @@
+{
+  "name": "button-docz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
+    "docz:serve": "docz build && docz serve"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.5",
+    "@emotion/react": "^11.8.2",
+    "bootstrap": "^5.1.3",
+    "docz": "^2.4.0",
+    "dotenv": "^16.0.0",
+    "fs": "0.0.1-security",
+    "gatsby-plugin-emotion": "^7.11.0",
+    "react": "16.14.0",
+    "react-bootstrap": "^2.2.1",
+    "react-dom": "16.14.0",
+    "typescript": "^4.6.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
